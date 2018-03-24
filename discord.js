@@ -64,4 +64,4 @@ client.on('message', (msg)=>{
   member.send(welcome)
 
   });
-client.login("NDI2NDM1OTI5OTIyODYzMTE3.DZcN2A.hL2s9S38FMZv-p5w-ayJoNuPjNE")
+client.login("process.env.BOT_TOKEN")
